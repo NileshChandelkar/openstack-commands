@@ -1,6 +1,3 @@
-# openstack-commands
-
-
 [root@dlp ~]# source keystonerc_admin
 
 [root@dlp ~(keystone_admin)]# openstack user list
@@ -20,5 +17,3 @@
 | e43f38301fed4a44ae070b6e7b0a0026 | neutron    |
 | fbbd1aff07fd4b48a0020bddd2c8deea | demo       |
 +----------------------------------+------------+
-
-
